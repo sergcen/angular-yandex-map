@@ -1,5 +1,12 @@
 {
-    "name": "ya-map",
+    "name": "angular-yandex-map",
     "version": "1.0.4",
+    "ignore": [
+      "**/.*",
+      "example",
+      "Gruntfile.js",
+      "package.json"
+    ],
     "dependencies": { "angular": "~1.0.3" }
 }
+
