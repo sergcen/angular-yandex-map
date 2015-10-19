@@ -1,7 +1,7 @@
 {
     "name": "angular-yandex-map",
     "version": "1.0.4",
-    "main":"./ya-map-2.0.min.js",
+    "main":"./ya-map-2.1.min.js",
     "ignore": [
       "**/.*",
       "example",
